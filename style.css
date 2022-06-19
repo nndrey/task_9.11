@@ -1,0 +1,18 @@
+body {
+    background-image: url(img/pipl.jpg);
+    font-family: fantasy;
+    font-size:medium;
+}
+.btn {
+    display: block;
+    margin: 45px auto;
+    padding: 25px 45px;
+
+}
+.card-header {
+    background-color: beige;
+}
+.card-body {
+background-image: url(img/23.jpg);
+color:blanchedalmond
+}
